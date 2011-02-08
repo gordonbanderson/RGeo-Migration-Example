@@ -7,6 +7,9 @@ gem 'rails', '3.0.3'
 
 gem 'mysql2'
 
+gem "rgeo"
+gem "activerecord-mysql2spatial-adapter"
+
 # Use unicorn as the web server
 # gem 'unicorn'
 
